@@ -45,12 +45,6 @@ img {
   column-gap: 12px;
 }
 
-/* .home-page h2 .selected-text input {
-  width: 18px;
-  height: 18px;
-  cursor: pointer;
-} */
-
 .home-page .gallery-container {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
