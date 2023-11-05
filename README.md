@@ -1,6 +1,6 @@
-# React + Vite
+# Image Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This a react project that is image gallery.
 
 Currently, two official plugins are available:
 
